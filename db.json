@@ -2,11 +2,11 @@
     "users": [],
     "blogs": [],
     "login":[
-        {"email" : "admin@stockbroker.com"
+        {"email" : "admin@stockbroker.com",
 "password" : "admin123"
         }],
     "signup":[
-     {"email" : "admin@stockbroker.com"
+     {"email" : "admin@stockbroker.com",
 "password" : "admin123"
         }
     ]
