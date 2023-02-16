@@ -7,7 +7,7 @@
 		"stock_exchange": "NSE",
 		"total_shares": 50000,
 		"cost_per_share": 4210,
-		"price_action": 12,
+		"price_action": 12
   },
   {
 		"id" : 2,
@@ -17,7 +17,7 @@
 		"stock_exchange": "BSE",
 		"total_shares": 20000,
 		"cost_per_share": 2132,
-		"price_action": 4,
+		"price_action": 4
   }],
     "blogs": [],
     "login":[
@@ -30,4 +30,3 @@
         }
     ]
   }
-  
