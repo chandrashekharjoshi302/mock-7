@@ -1,7 +1,14 @@
 {
     "users": [],
     "blogs": [],
-    "login":[],
-    "signup":[]
+    "login":[
+        {"email" : "admin@stockbroker.com"
+"password" : "admin123"
+        }],
+    "signup":[
+     {"email" : "admin@stockbroker.com"
+"password" : "admin123"
+        }
+    ]
   }
   
