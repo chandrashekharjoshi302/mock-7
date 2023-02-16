@@ -22,11 +22,13 @@
     "blogs": [],
     "login":[
         {"email" : "admin@stockbroker.com",
-"password" : "admin123"
+"password" : "admin123",
+	   "token":"1234"
         }],
     "signup":[
      {"email" : "admin@stockbroker.com",
-"password" : "admin123"
+"password" : "admin123",
+      "token":"1234"
         }
     ]
   }
